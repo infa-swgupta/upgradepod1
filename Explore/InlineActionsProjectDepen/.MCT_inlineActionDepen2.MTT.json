@@ -1,6 +1,6 @@
 {
   "objectInfo" : {
-    "id" : "d5QfpkS2voleqlXII0gEud",
+    "id" : "3nxQSf8piXxkn2bs5O0AQG",
     "name" : "MCT_inlineActionDepen2",
     "type" : "MTT",
     "metadata" : {
@@ -9,7 +9,7 @@
         "minor" : 0
       },
       "repoInfo" : {
-        "repoHandle" : "0103ML0Z000000000003"
+        "repoHandle" : "010SSH0Z0000000000MB"
       },
       "contextAttributes" : [ {
         "name" : "id",
@@ -24,7 +24,7 @@
   },
   "dataFileExtension" : "zip",
   "objectRefs" : [ {
-    "id" : "9feblEzcF7MdSA3pSHZjgZ",
+    "id" : "269kwiqgTCygJA4ZdOLtWv",
     "name" : "cmd_inlineActionDepen",
     "type" : "DTEMPLATE",
     "metadata" : {
@@ -33,9 +33,12 @@
         "minor" : 0
       },
       "repoInfo" : {
-        "repoHandle" : "0103ML17000000000002"
+        "repoHandle" : "010SSH1700000000002G"
       },
-      "contextAttributes" : null,
+      "contextAttributes" : [ {
+        "name" : "id",
+        "value" : "@1"
+      } ],
       "additionalInfo" : {
         "description" : "Multiple Lookup Condition",
         "contentType" : "JSON",
@@ -44,8 +47,8 @@
     },
     "path" : "/Explore/InlineActionsProjectDepen"
   }, {
-    "id" : "dNx4F9e5s64fWtnvcSnuyp",
-    "name" : "FF",
+    "id" : "gzXVEEmN84XciD5xaZzmQv",
+    "name" : "ff",
     "type" : "Connection",
     "metadata" : {
       "modelVersion" : {
@@ -53,18 +56,18 @@
         "minor" : 0
       },
       "repoInfo" : {
-        "repoHandle" : "0103ML0B000000000003"
+        "repoHandle" : "010SSH0B00000000000J"
       },
       "contextAttributes" : null,
       "additionalInfo" : {
-        "description" : "test desc",
+        "description" : null,
         "contentType" : "JSON",
         "documentState" : "COMPLETE"
       }
     },
     "path" : "/SYS"
   }, {
-    "id" : "5HEeueBwmG5cqUIyW9adaD",
+    "id" : "4M5cKZCMMbAjWI0XLfLm0J",
     "name" : "TMS33RH64001",
     "type" : "AgentGroup",
     "metadata" : {
@@ -73,7 +76,7 @@
         "minor" : 0
       },
       "repoInfo" : {
-        "repoHandle" : "0103ML25000000000002"
+        "repoHandle" : "010SSH25000000000002"
       },
       "contextAttributes" : null,
       "additionalInfo" : {
