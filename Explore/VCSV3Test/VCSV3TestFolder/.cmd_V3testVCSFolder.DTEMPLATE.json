@@ -1,7 +1,7 @@
 {
   "objectInfo" : {
-    "id" : "aksCawkKE6UdAVXQOuw2M3",
-    "name" : "cmd_V3testVCS_2",
+    "id" : "fI2HQkEb2sYjf7GKmbCIQZ",
+    "name" : "cmd_V3testVCSFolder",
     "type" : "DTEMPLATE",
     "metadata" : {
       "modelVersion" : {
@@ -9,7 +9,7 @@
         "minor" : 0
       },
       "repoInfo" : {
-        "repoHandle" : "01000L1700000000000N"
+        "repoHandle" : "01000L1700000000000J"
       },
       "contextAttributes" : [ {
         "name" : "id",
