@@ -1,1 +1,1 @@
-echo "What is your name?"
+eco "What is your name?"
