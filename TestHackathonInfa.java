@@ -5,12 +5,13 @@ import java.sql.Timestamp;
 import java.util.*;
 
 
-public class TestHackathon2  {
+public class TestHackathonInfa  {
 
-    String data;
+  
     @Test()
     public void HackTest1() {
         //Negate the NullPointerException
+        String data;
         System.out.println( data); // throws NullPointerException
     }
     @Test()
